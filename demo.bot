@@ -1,0 +1,6 @@
+program=/usr/bin/demobot
+handle-net=false
+name=Demo Bot
+version=1.0
+author=Some Guy
+password=abcd

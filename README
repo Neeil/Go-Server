@@ -1,0 +1,4 @@
+Most usage instructions at:
+http://ai.mindstab.net/wiki/index.php/Goserver
+
+If setting up a stats website, place the website directory somewhere web visible, set up a MySQL database as outlined in ai_go.sql, and configure the DB options in website/index.php and gtpserver.py accordingly.
